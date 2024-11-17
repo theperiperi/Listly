@@ -1,5 +1,5 @@
 
-# Todo App
+# Listly
 
 A simple and interactive Todo application built using React. This app allows users to create, edit, and delete tasks. It provides a clean interface to manage personal tasks effectively.
 

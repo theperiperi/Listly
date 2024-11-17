@@ -39,8 +39,6 @@ function App() {
     setTodos(todos.filter(todo => !todo.complete));
   }
 
-  const todosLeft = todos.filter(todo => !todo.complete).length;
-
   return (
     <>
       <h1>Todo List</h1>
